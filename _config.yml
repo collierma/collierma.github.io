@@ -20,9 +20,9 @@ title                    : "Maggie Collier"
 title_separator          : "-"
 name                     : "Maggie Collier"
 description              : "Maggie Collier's personal website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://collierma.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "collierma/collierma.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Maggie Collier"
   avatar           : "/assets/images/maggie_square.jpg"
-  bio              : "I am an undergraduate researcher studying Electrical Engineering and Biomedical Engineering at the University of Alabama at Birmingham. My research interests span Human Robot Interaction, Assistive Robotics, and Reinforcement Learning."
+  bio              : "Undergraduate researcher in Human Robot Interaction studying engineering at the University of Alabama at Birmingham"
   location         : "Birmingham, Alabama"
   email            : "maggieannecol@gmail.com"
   uri              :
@@ -188,6 +188,23 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+collections:
+   research:
+      output: true
+      permalink: /:collection/:path/
+   publications:
+      output: true
+      permalink: /:collection/:path/
+   teaching:
+      output: true
+      permalink: /:collection/:path/
+   press:
+      output: true
+      permalink: /:collection/:path/
+   cv:
+      output: true
+      permalink: /:collection/:path/
+
 
 # Sass/SCSS
 sass:
@@ -269,3 +286,20 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+
