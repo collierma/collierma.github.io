@@ -4,7 +4,6 @@ title: Conferences & Publications
 layout: single
 author_profile: true
 ---
------
 ### Publications
 
 Z. Erickson, **M. Collier**, A. Kapusta, C. C. Kemp (2018). "Tracking Human Pose During Robot-Assisted Dressing using Single-Axis Capacitive Proximity Sensing" in *IEEE Robotics and Automation Letters (RA-L)*. **[IEEE Xplore](https://ieeexplore.ieee.org/document/8307487/)**
