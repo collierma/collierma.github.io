@@ -41,11 +41,12 @@ Read more about the project [here](http://pwp.gatech.edu/hrl/cap-prox/).
 
 *[BME]: Biomedical Engineering
 
-A request from the Alabama Department of Rehabilitation Services led us to the discover the need for an **inexpensive** method to provide a timekeeping and alarm device that can be set by people with deaf-blindness **without** assistance from a caretaker, thereby increasing the users' independence.
+A request from the Alabama Department of Rehabilitation Services led us to discover the need for an **inexpensive** method to provide a timekeeping and alarm device that can be set by people with deaf-blindness **without** assistance from a caretaker, thereby increasing the users' independence.
 Based on price and quality gaps between existing solutions and the desired device, we developed an alarm clock that features an analog clock face to be read by tactile stimulation, an electrical interface that matches those found in standard bed vibrators already commonly used in the deaf community, and a "reverse braille" push button mechanism to set the original time as well as the alarm.
 The reverse braille input mechanism is novel in itself, due to its relatively minimalist direction which contrasts modern designs which have become increasingly complex. In addition to its usage in our cost-effective alarm clock, the reverse braille input mechanism can be applied to a wide variety of independent niche uses for individuals with deaf-blindness, which could increase their independence drastically.
 
 <img src="/assets/images/alarm_clock.JPG" style="width:40%">
+<img src="/assets/images/clock_prototype.jpg" style="width:35%">
 
 `Assistive Technology`
 
@@ -60,7 +61,7 @@ Brain aneurysms represent a health risk that must be treated as quickly and effi
 Surgical clipping and coil embolization are the two most effective treatments for ruptured brain aneurysms; yet, both are problematic.
 While surgical clipping is disadvantageous due to the extreme invasiveness of the craniotomy it requires, coiling carries a higher risk of rebleeding (aneurysmal rerupture) than clipping, an unfortunate outcome with a mortality rate of 70%.
 This higher rate of rebleeding is thought to be the result of poor aneurysmal healing in the months following initial coil placement.
-This project aimed to decrease rates of rebleeding in intracranial aneurysms treated with coiling by enhancing this healing process.
+This project aimed to decrease rates of rebleeding in brain aneurysms treated with coiling by enhancing this healing process.
 The lab previously demonstrated a self-assembling nanomatrix coating that provides an endothelium-mimicking microenvironment on the surface of cardiovascular devices. This kind of environment, we hypothesized, might encourage proper aneurysmal healing. Thus, we applied the coating to the surface of the coils in attempt to reduce the risk of rebleeding associated with coil embolization.
 
 <img src="/assets/images/brain_stuff.png" style="width:40%">
@@ -68,4 +69,3 @@ The lab previously demonstrated a self-assembling nanomatrix coating that provid
 
 `Tissue Engineering`
 
------
