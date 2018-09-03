@@ -14,3 +14,5 @@ I am currently pursuing two bachelor of science degrees (Electrical Engineering 
 During my time at UAB, I conducted three years of tissue engineering research and participated in two robotics summer research programs: Georgia Tech's 2017 [SURE Robotics program](http://sure.robotics.gatech.edu/) (in [Professor Charlie Kemp's lab](http://pwp.gatech.edu/hrl/about/)) and Carnegie Mellon's 2018 [Robotics Institute Summer Scholars program](https://riss.ri.cmu.edu/) (in [Dr. Henny Admoni's lab](http://harp.ri.cmu.edu/)).
 
 After I earn both of my degrees in April of 2019, I intend to pursue my PhD. Ultimately, I want to pursue a career in research.
+
+You can view my CV [here]({{ site.baseurl }}/cv/maggie_collier_cv.pdf).
