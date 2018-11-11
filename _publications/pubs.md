@@ -14,7 +14,7 @@ Z. Erickson, **M. Collier**, A. Kapusta, C. C. Kemp (2018). "Tracking Human Pose
 
 ### Conference Presentations
 
-T. J. Hwang, **M. Collier** G. Alexander, B. Brott, R. Hergenrother, R. Kardivel, D. Kallmes, H.-W. Jun (Oct '17). "Nitric Oxide Releasing Bionanomatrix Coating for Brain Aneurysm Coils to Improve Healing" presented at the *2017 Biomedical Engineering Society Annual Meeting*.
+T. J. Hwang, **M. Collier**, G. Alexander, B. Brott, R. Hergenrother, R. Kardivel, D. Kallmes, H.-W. Jun (Oct '17). "Nitric Oxide Releasing Bionanomatrix Coating for Brain Aneurysm Coils to Improve Healing" presented at the *2017 Biomedical Engineering Society Annual Meeting*.
 
 **M. Collier**, M. Chan, D. Chasteen-Boyd, S. Holder, A. Eberhardt (Apr '17). "An Independent Alarm Clock Designed for Individuals with Deaf-Blindness" presented in the *2017 Design of Medical Devices Conference* at the University of Minnesota.
 
