@@ -9,7 +9,7 @@ author_profile: true
 My research experience has been broad, representing the fields of `Human Robot Interaction`, `Assistive Technology`, and `Tissue Engineering`.
 
 -----
-### Eye Gaze Behavior in Telemanipulation of a Multi-stage Task
+### Eye Gaze Behavior in Teleoperation of a Robot in a Multi-stage Task
 
 *Carnegie Mellon, [HARP Lab](http://harp.ri.cmu.edu/) -- June 2018 - present*
 
@@ -28,7 +28,7 @@ In this work, we investigate the use of eye gaze for user goal anticipation duri
 
 Dressing is a fundamental task of everyday living and robots offer an opportunity to assist older adults and people with motor impairments who need assistance with dressing.
 While several robotic systems have explored robot-assisted dressing, few have considered how a robot can manage error due to human pose estimation or adapt to human motion during dresssing assistance.
-In addition, estimating pose changes due to human motion can be challening with vision-based techniques since dressing is intended to visually occlude the body with clothing. We present a method that uses proximity sensing to enable a robot to account for errors in the estimated pose of a person and adapt to the person's motion during dressing assistance.
+In addition, estimating pose changes due to human motion can be challenging with vision-based techniques since dressing is intended to visually occlude the body with clothing. We present a method that uses proximity sensing to enable a robot to account for errors in the estimated pose of a person and adapt to the person's motion during dressing assistance.
 
 Read more about the project [here](http://pwp.gatech.edu/hrl/cap-prox/).
 
@@ -53,7 +53,7 @@ The reverse braille input mechanism is novel in itself, due to its relatively mi
 -----
 ### Improving Coil Embolization of Brain Aneurysms
 
-*UAB, [Jun Group](http://labs.uab.edu/hwjun/) -- Oct. 2014 - May 2017*
+*UAB, Dept. of BME -- Oct. 2014 - May 2017*
 
 *[UAB]: University of Alabama at Birmingham
 
