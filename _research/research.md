@@ -13,7 +13,7 @@ My research experience has been broad, representing the fields of `Human Robot I
 
 *Carnegie Mellon, [HARP Lab](http://harp.ri.cmu.edu/) -- June 2018 - present*
 
-Individuals with motor disabilities can use assistive robotics to independently perform activities of daily living. Many of these activities, such as food preparation and dressing, are complex and represent numerous subtasks which can often be performed in a variety of sequences to successfullly achieve a person's overall goal.
+Individuals with motor disabilities can use assistive robotics to independently perform activities of daily living. Many of these activities, such as food preparation and dressing, are complex and represent numerous subtasks which can often be performed in a variety of sequences to successfully achieve a person's overall goal.
 Because different kinds of tasks require different types or levels of assistance, the variety of subtask sequences which the user can choose makes robotic assistance challenging to implement in a multi-stage task. However, a system that can anticipate the user's next intended subtask can optimize the assistance provided during a multi-stage task. Psychology research indicates that non-verbal communication, such as eye gaze, can provide clues about people's strategies and goals while they manipulate objects.
 In this work, we investigate the use of eye gaze for user goal anticipation during the telemanipulation of a multi-stage task.
 
@@ -27,7 +27,7 @@ In this work, we investigate the use of eye gaze for user goal anticipation duri
 *Georgia Tech, [Healthcare Robotics Lab](http://pwp.gatech.edu/hrl/about/) -- May 2017 - Aug. 2017*
 
 Dressing is a fundamental task of everyday living and robots offer an opportunity to assist older adults and people with motor impairments who need assistance with dressing.
-While several robotic systems have explored robot-assisted dressing, few have considered how a robot can manage error due to human pose estimation or adapt to human motion during dresssing assistance.
+While several robotic systems have explored robot-assisted dressing, few have considered how a robot can manage error due to human pose estimation or adapt to human motion during dressing assistance.
 In addition, estimating pose changes due to human motion can be challenging with vision-based techniques since dressing is intended to visually occlude the body with clothing. We present a method that uses proximity sensing to enable a robot to account for errors in the estimated pose of a person and adapt to the person's motion during dressing assistance.
 
 Read more about the project [here](http://pwp.gatech.edu/hrl/cap-prox/).
