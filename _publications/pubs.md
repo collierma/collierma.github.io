@@ -46,9 +46,11 @@ G. Alexander, J. Vines, **M. Collier**, T. J. Hwang, J. Kim, B. Brott, H.-W. Jun
 
 ### Thesis
 
-***M. Collier** (2017). "Novel Endothelium-Mimicking Nanomatrix Coating to Enhance Healing of Ruptured Intracranial Aneurysms Treated with Coil Embolization" presented in completion of the Science and Technology Honors Program's thesis proposal requirement.
+**M. Collier** (2019). *(Undergraduate Honors Thesis)* “Eye Gaze Behavior during Teleoperation of a Robot in a Multi-stage Task”
+*Committee: Prof. Henny Admoni, Prof. Joel Berry, Prof. Diane Tucker*
 
-**Thesis committee dissolved after author chose to pursue research interests in electrical engineering. Future honors thesis will be completed in Spring 2019 in robotics.*
+**M. Collier** (2017). *(Undergraduate Honors Proposal)* “Novel Endothelium-Mimicking Nanomatrix Coating to Enhance Healing of Ruptured Intracranial Aneurysms Treated with Coil Embolization”
+*Committee: Prof. Ho-Wook Jun, Prof. Brigitta Brott, M.D., Prof. Joel Berry*
 
 -----
 

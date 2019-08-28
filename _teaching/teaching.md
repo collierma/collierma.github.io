@@ -24,7 +24,7 @@ author_profile: true
 
 -----
 ### Supplemental Instruction
-*[Vulcan Materials Academic Success Center](http://www.uab.edu/students/academics/student-success) -- Jan. 2017 - present*
+*[Vulcan Materials Academic Success Center](http://www.uab.edu/students/academics/student-success) -- Jan. 2017 - Apr. 2019*
 
 Served as Supplemental Instruction leader to Introductory Physics course for four semesters. Responsibilities included:
 * Teaching large groups of pre-medicine students about physics
